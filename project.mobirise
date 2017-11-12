@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 62,
     "versionPublish": "4.3.4",
@@ -2901,7 +2901,7 @@
     "page4.html": {
       "settings": {
         "meta_descr": "Website Maker Description",
-        "title": "Songs od innocence and experience",
+        "title": "Songs of innocence and experience",
         "order": 3
       },
       "components": [
@@ -3727,7 +3727,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Ik heb een platenhoes, innersleeve en centerlabel ontworpen voor de plaat Songs of innocence and experience van Allen Ginsberg en William Blake. In de liedjes gaat het vooral over de onschuld van het kind vs de hardheid van de wereld. Op de voorkant heb ik een beeld geplaatst dat zachtheid uitstraalt maar tegelijkertijd iets sensueels heeft. De innersleeve bevat de sonteksten en daar heb ik gekozen voor zwart om het te doen contrasteren met de voorkant. De achterkant van de plaat is een afbeelding van William Morris. Het is afkomstig uit dezelfde periode. Dit beeld past er goed bij doordat er in de liedjes heel vaak natuur en bomen voorkomen. Ook in de originele afbeeldingen bij de versen is dit zo. De labels zijn eenvoudig en hebben gewoon de terugkerende kleuren die al eerder voorkwamen.</div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Ik heb een platenhoes, innersleeve en centerlabel ontworpen voor de plaat Songs of innocence and experience van Allen Ginsberg en William Blake. In de liedjes gaat het vooral over de onschuld van het kind vs de hardheid van de wereld. Op de voorkant heb ik een beeld geplaatst dat zachtheid uitstraalt maar tegelijkertijd iets sensueels heeft. De innersleeve bevat de songteksten en daar heb ik gekozen voor zwart omdat dat contrast geeft met de voorkant. De achterkant van de plaat is een afbeelding van William Morris, afkomstig uit dezelfde periode. Dit beeld past er goed bij doordat er in de liedjes heel vaak natuur en bomen voorkomen. Ook in de originele afbeeldingen bij de versen is dit zo. De labels zijn eenvoudig en hebben gewoon de terugkerende kleuren die al eerder voorkwamen.</div>\n        </div>\n    </div>\n</section>",
           "_cid": "qAcJalaFg8",
           "_anchor": "content1-1o",
           "_protectedParams": [],
